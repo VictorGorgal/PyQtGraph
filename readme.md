@@ -1,6 +1,6 @@
 #PyQtGraph Example
 
-To install this library:
-'''
+To install this library:  
+```
 pip install pyqtgraph
-'''
+```
