@@ -1,4 +1,4 @@
-#PyQtGraph Example
+# PyQtGraph Example
 
 To install this library:  
 ```
